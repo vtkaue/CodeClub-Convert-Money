@@ -1,7 +1,8 @@
 # CodeClub Convert Money
 
 
-> see the project : 
+> see the project : https://vtkaue.github.io/CodeClub-Convert-Money/
+
 
 <img src="./assets/project-finalized.png"  widht="250px" alt="CodeClub Convert Money
 -image">
